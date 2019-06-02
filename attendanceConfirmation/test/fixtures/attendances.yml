@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_id: MyString
+  event_name: MyString
+  event_date: MyString
+  event_date_comment: MyString
+  participant: MyString
+  attendance: 1
+  delete_flg: false
+
+two:
+  event_id: MyString
+  event_name: MyString
+  event_date: MyString
+  event_date_comment: MyString
+  participant: MyString
+  attendance: 1
+  delete_flg: false
