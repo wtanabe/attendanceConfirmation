@@ -1,11 +1,6 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  event_name: MyString
-  event_content: MyText
-  delete_flg: false
-
-two:
-  event_name: MyString
-  event_content: MyText
+  event_name: 6月の愛のたね
+  event_content: 参加できる日程に記入お願いします。
   delete_flg: false

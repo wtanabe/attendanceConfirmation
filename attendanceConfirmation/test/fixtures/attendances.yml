@@ -1,19 +1,130 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  event_id: MyString
-  event_name: MyString
-  event_date: MyString
-  event_date_comment: MyString
-  participant: MyString
+  event_id: 1
+  event_date: 1
+  event_date_comment: 1
+  participant: 1
   attendance: 1
   delete_flg: false
 
 two:
-  event_id: MyString
-  event_name: MyString
-  event_date: MyString
-  event_date_comment: MyString
-  participant: MyString
+  event_id: 1
+  event_date: 1
+  event_date_comment: 1
+  participant: 3
   attendance: 1
   delete_flg: false
+
+three:
+  event_id: 1
+  event_date: 1
+  event_date_comment: 1
+  participant: 2
+  attendance: 1
+  delete_flg: false
+
+four:
+  event_id: 1
+  event_date: 1
+  event_date_comment: 2
+  participant: 1
+  attendance: 1
+  delete_flg: false
+
+five:
+  event_id: 1
+  event_date: 1
+  event_date_comment: 2
+  participant: 2
+  attendance: 1
+  delete_flg: false
+
+six:
+  event_id: 1
+  event_date: 2
+  event_date_comment: 3
+  participant: 1
+  attendance: 1
+  delete_flg: false
+
+seven:
+  event_id: 1
+  event_date: 2
+  event_date_comment: 3
+  participant: 3
+  attendance: 1
+  delete_flg: false
+
+eight:
+  event_id: 1
+  event_date: 2
+  event_date_comment: 4
+  participant: 2
+  attendance: 1
+  delete_flg: false
+
+nine:
+  event_id: 1
+  event_date: 3
+  event_date_comment: 5
+  participant: 1
+  attendance: 1
+  delete_flg: false
+
+ten:
+  event_id: 1
+  event_date: 3
+  event_date_comment: 5
+  participant: 3
+  attendance: 1
+  delete_flg: false
+
+eleven:
+  event_id: 1
+  event_date: 3
+  event_date_comment: 6
+  participant: 2
+  attendance: 1
+  delete_flg: false
+
+twelve:
+  event_id: 1
+  event_date: 4
+  event_date_comment: 7
+  participant: 2
+  attendance: 1
+  delete_flg: false
+
+thirteen:
+  event_id: 1
+  event_date: 4
+  event_date_comment: 7
+  participant: 3
+  attendance: 1
+  delete_flg: false
+
+fourteen:
+  event_id: 1
+  event_date: 4
+  event_date_comment: 8
+  participant: 2
+  attendance: 1
+  delete_flg: false
+
+fifteen:
+  event_id: 1
+  event_date: 4
+  event_date_comment: 8
+  participant: 3
+  attendance: 1
+  delete_flg: false
+
+sixteen:
+  event_id: 1
+  event_date: 4
+  event_date_comment: 8
+  participant: 1
+  attendance: 1
+  delete_flg: false
+

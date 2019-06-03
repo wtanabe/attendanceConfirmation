@@ -1,9 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  event_date: MyString
+  event_date: 20190601
   delete_flg: false
 
 two:
-  event_date: MyString
+  event_date: 20190615
+  delete_flg: false
+
+three:
+  event_date: 20190622
+  delete_flg: false
+
+four:
+  event_date: 20190629
   delete_flg: false

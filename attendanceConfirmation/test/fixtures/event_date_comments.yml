@@ -1,9 +1,33 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  event_date_comment: MyString
+  event_date_comment: 弁当作り
   delete_flg: false
 
 two:
-  event_date_comment: MyString
+  event_date_comment: 弁当配り
+  delete_flg: false
+
+three:
+  event_date_comment: 弁当作り
+  delete_flg: false
+
+four:
+  event_date_comment: 弁当配り
+  delete_flg: false
+
+five:
+  event_date_comment: 弁当作り
+  delete_flg: false
+
+six:
+  event_date_comment: 弁当配り
+  delete_flg: false
+
+seven:
+  event_date_comment: 弁当作り
+  delete_flg: false
+
+eight:
+  event_date_comment: 弁当配り
   delete_flg: false

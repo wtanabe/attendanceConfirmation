@@ -1,9 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  participant: MyString
+  participant: ウソプ
   delete_flg: false
 
 two:
-  participant: MyString
+  participant: かなこ
+  delete_flg: false
+
+three:
+  participant: 渡邊
   delete_flg: false
